@@ -32,6 +32,7 @@
 1. ArrayList 내부 구조
 1. Maven or Gradle?
 1. SOLID란?
+1. 자주쓰는 디자인 패턴?
 
 ## 자바 스프링
 1. Ioc(DI) 란?
