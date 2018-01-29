@@ -7,7 +7,6 @@
 1. stack
 1. 이진트리? 완전이진트리?
 
-
 ## 알고리즘
 1. 버블정렬
 1. 선택정렬
@@ -31,6 +30,8 @@
 1. HashMap 의 내부 자료 구조
 1. JVM 튜닝, 최소/최대 메모리 
 1. ArrayList 내부 구조
+1. Maven or Gradle?
+1. SOLID란?
 
 ## 자바 스프링
 1. Ioc(DI) 란?
@@ -40,6 +41,18 @@
 1. Bean의 생명주기
 1. 분산처리를 어떻게 해야 하는가?
 1. Micro service란?
+
+## HTML5
+1. HTML5 신규특성
+1. 렌더링 설명
+1. LocalStorage?
+1. SessionStorage?
+1. session과 cookie차이점 
+
+## CSS
+1. 박스모델?
+1. floating?
+1. positioning?
 
 ## DB
 1. ACID란?
@@ -55,6 +68,7 @@
 1. Global Area, Private Area, Share Area, Data Area ? 
 1. 대규모 분산처리를 하기 위해 DB를 어떻게 나누는가?
 1. 대규모 분산처리를 하기 위해 Table을 어떻게 나누는가?
+1. 정규화? 1NF, 2NF, 3NF?
 
 ## Redis
 1. 어떤 data타입을 지원하는가?
@@ -68,4 +82,13 @@
 1. cluster
 1. shared clustering 
 
+## 네트워크
+1. TCP? UDP?
+1. 일상적인 방어체계?
+1. 네트워크 7계층 모델?
+
+## 기타 툴
+1. Git? svn? cvs?
+1. Jenkins
+1. Docker
 
