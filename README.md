@@ -7,6 +7,8 @@
 1. stack
 1. 이진트리? 완전이진트리?
 1. 그래프
+1. Red-Black 트리?
+1. AVL 트리?
 
 ## 알고리즘
 1. 버블정렬
@@ -94,3 +96,25 @@
 1. Git? svn? cvs?
 1. Jenkins
 1. Docker
+
+## Memcached
+1. key-value 구조
+1. repcache- Master/Master 구조
+1. 분산키 - Consistent HashRing 원리
+1. LRU? (Least Recently Used) 
+1. Moxi? Memcached Proxy
+    request => LB => Moxi(s대) => Memecached(N대)
+    moxi -z 11211=server1:20001,server2:20002,server:20003,server:20004
+1. Lazy delete?
+1. 삭제 된 데이터 다시 살아나는 현상?
+    flush_all
+    flush_all [delay_time]
+
+
+## Redis
+1. List, Sorted Set, Hash type
+1. Master/Salve 
+1. SLAVEOF [master ip] [master port]
+1. Slave to master : SLAVE NO ONE
+1. RDB -> Snapshot
+1. AOP (Append Only File) -> Jounaling
